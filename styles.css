@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+
+.movie-img {
+      width: 100%;
+      height: auto;
+      margin-bottom: 10px;
+    }
